@@ -48408,6 +48408,10 @@ tt_hunt_field_03
 tt_hunt_field_02_LOD1
 tt_Didgeridoo_field
 tt_fish_field_01
+tt_fish_field_02
+tt_fish_field_03
+tt_gather_field_01
+tt_gather_field_02
 tt_gather_field_03
 tt_recruit_field_01
 tt_totempole_social
