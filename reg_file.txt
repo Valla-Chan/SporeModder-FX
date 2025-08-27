@@ -77526,6 +77526,7 @@ joint9
 DeformBoneBaseJoint
 DeformBoneEndJoint
 DeformBoneMiddle
+DeformBoneLength
 zh-tw
 ja-jp
 ko-kr
@@ -99506,7 +99507,6 @@ csa-trash-lg-act
 csa-trash-lg-off
 csa-trash-lg-norm
 csa-trash-lg-hl
-DeformBoneLength
 event_CVGEpicCharmed
 event_TRGEpicKilled
 event_TRGEpic
@@ -106428,6 +106428,7 @@ EDT_building_roof-on-hl
 EDT_building_roof-on-act
 EDT_building_roof-on-norm
 EDT_building_bodies-on-norm
+EDT_building_bodies-on-hl
 EDT_building_windows-off
 EDT_building_windows-norm
 EDT_building_windows-act
@@ -108556,3 +108557,13 @@ skinpaint_coat_cracks_flood_effect_icy
 skinpaint_coat_cracks_flood_effect_hyperspace
 skinpaint_coat_cracks_flood_effect_hole
 skinpaint_coat_cracks_flood_effect_hexagon
+
+AssemblyThoracic
+Weapon_limb_club01
+Weapon_limb_club02
+Weapon_limb_club03
+Weapon_limb_club04
+Weapon_limb_slash01
+Weapon_limb_slash02
+Weapon_limb_slash03
+Weapon_limb_slash04
