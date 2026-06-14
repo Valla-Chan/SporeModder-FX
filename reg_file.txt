@@ -2,6 +2,7 @@ CreatureGame
 TribalTools
 TribeGame
 ModText
+base
 TribeArchetypes_hard
 tribepopups~	0x182CD6CE
 civpopups~	0xAA9A8ED7
@@ -102,6 +103,7 @@ Adventure_brush_palette_category~	0x406B6EDC
 ca_EditorKeys~	0x406B7BC9
 sa_EditorKeys~	0x406B7BC8
 ta_EditorKeys~	0x406B7BCA
+be_EditorKeys~	0x406B7B28
 be_EditorKeys_entertainment~	0x406B7B8F
 be_EditorKeys_factory~	0x406B7B8E
 be_EditorKeys_house~	0x406B7B8D
@@ -5387,6 +5389,7 @@ plyr_angry_v4
 plyr_laugh_v2
 portal
 PosseUspgrade
+PosseUpgrade
 posture1
 posture2
 posture3
@@ -112703,14 +112706,14 @@ brush_silken_hills_d
 brush_сrater_b
 brush_petal2
 brush_crab_tip_detail_left
-Weapon_limb_club01~ 0x0660eab3
-Weapon_limb_club02~ 0x0660eab8
-Weapon_limb_club03~ 0x0660eaca
-Weapon_limb_club04~ 0x0660f25a
-Weapon_limb_slash01~ 0x0660f279
-Weapon_limb_slash02~ 0x0660f28b
-Weapon_limb_slash03~ 0x0660f2ba
-Weapon_limb_slash04~ 0x0660f2c0
+Weapon_limb_club01~	0x0660eab3
+Weapon_limb_club02~	0x0660eab8
+Weapon_limb_club03~	0x0660eaca
+Weapon_limb_club04~	0x0660f25a
+Weapon_limb_slash01~	0x0660f279
+Weapon_limb_slash02~	0x0660f28b
+Weapon_limb_slash03~	0x0660f2ba
+Weapon_limb_slash04~	0x0660f2c0
 
 test_downloadable
 civ_beachball
@@ -112850,7 +112853,6 @@ fe_fruit_03_normal
 cr_fight_cometlens
 edi_waterpatch
 be_effectmodel_windmill
-ui_planet_brush_outline
 default01_tinyrock-hull
 losenge_massiveresource-hull
 genericspace01_icerock-hull
@@ -113887,6 +113889,7 @@ crg-icon-nestmate
 trg_selection_spinner8
 ui_gohere
 ui_reticle_halfcircle
+ui_planet_brush_outline
 trg_selection_spinner_brightened
 effect-happy-icon
 civ_vehicle_selection_spinner1
