@@ -103,6 +103,7 @@ Adventure_brush_palette_category~	0x406B6EDC
 ca_EditorKeys~	0x406B7BC9
 sa_EditorKeys~	0x406B7BC8
 ta_EditorKeys~	0x406B7BCA
+be_EditorKeys~	0x406B7B28
 be_EditorKeys_entertainment~	0x406B7B8F
 be_EditorKeys_factory~	0x406B7B8E
 be_EditorKeys_house~	0x406B7B8D
